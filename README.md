@@ -77,4 +77,4 @@ npm run dev
 
 ---
 
-💡 **Made with ❤️ following the [YouTube tutorial](https://youtu.be/mqUN4N2q4qY?si=x_BUUQNzAliqLdx1).**
+💡 **Created with ❤️ in accordance the [YouTube tutorial](https://youtu.be/mqUN4N2q4qY?si=x_BUUQNzAliqLdx1).**
